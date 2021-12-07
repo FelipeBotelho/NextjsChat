@@ -21,7 +21,7 @@ And of course, NextJS Chat is open source with a public repository on GitHub.
 
 ## Installation
 
-Dillinger requires [Node.js](https://nodejs.org/) v16+ to run.
+NextJS Chat requires [Node.js](https://nodejs.org/) v16+ to run.
 
 Install the dependencies and devDependencies and start the server.
 
